@@ -1,0 +1,2 @@
+# lirc
+LIRC configuration files
